@@ -1,0 +1,13 @@
+# Git Ignore File
+
+# Ignore CMake build folder
+build/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore extracted database files
+*.csv
+
+# Ignore network files
+*.net
